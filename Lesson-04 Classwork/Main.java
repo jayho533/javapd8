@@ -26,6 +26,9 @@ class Main {
     3) growth rate of your investment
 */
 
+int temperature=78;
+int student GPA= 79;
+int growth rate = 80;
 
 
 
@@ -36,7 +39,9 @@ class Main {
     2) students first initial
     3) description of an item 
 */
-
+int student last name = Ho;
+int student first initial = J;
+int description item= candy;
 
 
 
@@ -47,7 +52,9 @@ class Main {
     2) the status whether the game is over
     3) the status whether the battery is charging
 */
-
+ int light = on;
+ int gameover = over;
+ int battery = charging;
 
 
 
