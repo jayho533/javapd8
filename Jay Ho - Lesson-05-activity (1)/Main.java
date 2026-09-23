@@ -79,7 +79,12 @@ System.out.println(x);
 
     Declare and assign values to any new variables
 */
- int x = 56;
+int i = 8;
+int x = 9;
+
+double area = 1%2 * i * x;
+
+System.out.println(area);
 
 
 
