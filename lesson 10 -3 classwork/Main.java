@@ -37,11 +37,11 @@ class Main {
         of beans: $25 savings
         Otherwise: $0 savings.
     */
-        String groceryDiscount(double grocery store) {
-        if(grocery store ==100 && grocery store ==200)
+        String groceryDiscount(double amt, int cans) {
+        if( amt ==100 && amt ==200)
         return cost "10";
-        else if(grocery store >=200)
+        else if(amt>=200)
         return cost "25";
-        else if(grocery store =0)
+        else if(amt=0)
         return cost "0";
 }
